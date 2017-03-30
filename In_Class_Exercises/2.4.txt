@@ -1,0 +1,1 @@
+We don't need to check whether RC become negative because line 4 is inside of a while loop that will exit once the cursurs (left and right) cross each other, so there is no possible way that RC can become negative.

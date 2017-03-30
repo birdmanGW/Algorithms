@@ -1,0 +1,15 @@
+Ex.2
+A circle.
+
+Ex.3
+If the array type was of int.
+If the final System.out.println() statement was removed
+if algorithm 2 or 3 was used instead
+
+Ex.4
+Algorithm 2 makes use of the Arrays.sort() method. 1 comparison
+Algorithm 3 keeps track of both the min and max values. n comparisons
+
+Ex.5
+3 times per n (3 calls to distance)
+So 3n times distance is computed
